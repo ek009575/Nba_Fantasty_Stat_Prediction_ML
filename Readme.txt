@@ -47,3 +47,5 @@ To use aws for the project
 sudo yum update -y
 sudo yum install docker -y
 sudo service docker start
+
+If you have any questions, please don't hesitate
